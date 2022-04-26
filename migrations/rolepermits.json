@@ -1,0 +1,33 @@
+{
+   "roles": [
+      {
+         "name": "OWNER"
+      },
+      {
+         "name": "SUPERVISOR"
+      },
+      {
+         "name": "USER"
+      },
+      {
+         "name": "PHP"
+      },
+      {
+         "name": "NODEJS"
+      }
+   ],
+   "permits": [
+      {
+         "name": "CAN_VIEW_PHP"
+      },
+      {
+         "name": "CAN_DOWNLOAD_PHP"
+      },
+      {
+         "name": "CAN_VIEW_NODEJS"
+      },
+      {
+         "name": "CAN_DOWNLOAD_NODEJS"
+      }
+   ]
+}
